@@ -1,2 +1,2 @@
 # terraform-random-pet
-The example module to import for the private module registry guide.
+An example module for the private module registry.
